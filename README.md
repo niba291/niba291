@@ -1,4 +1,4 @@
-### Hi, I'm Nibaldo '''<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> '''
+### Hi, I'm Niba '''<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> '''
 
 <h3>Tools</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact"/>
