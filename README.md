@@ -53,3 +53,8 @@ class Languages(metaclass=Meta):
 ```
 ***
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niba291&bg_color=1a1b27&color=ffffff&line=38bdae&point=70a5fd&area=true)
+***
+<p align="center">
+    <img src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
+</p>
+
