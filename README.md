@@ -1,6 +1,9 @@
 ### Hi, I'm Niba '''<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> '''
 
 <h3>Tools</h3>
+<p>
+    
+</p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact"/>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
@@ -25,6 +28,7 @@
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Electron-191970.svg?style=for-the-badge&logo=Electron&labelColor=ffffff&logoColor=blue" alt="electron"></a>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>
+<img align="right" src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
 <hr>
 
 ```python
@@ -57,6 +61,6 @@ class Languages(metaclass=Meta):
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niba291&bg_color=1a1b27&color=ffffff&line=38bdae&point=70a5fd&area=true)
 ***
 <p align="center">
-    <img src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
+    
 </p>
 
