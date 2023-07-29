@@ -3,6 +3,7 @@
 <h3>Tools</h3>
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact"/>
+    <img align="right" src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="php"></a>
@@ -26,7 +27,6 @@
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff" alt="linux"></a>
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
     <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
-    <img align="right" src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
 </div>
 <br><br>
 <hr>
