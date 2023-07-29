@@ -23,6 +23,7 @@
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff" alt="linux"></a>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
+<a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Electron-191970.svg?style=for-the-badge&logo=Electron&labelColor=ffffff&logoColor=blue" alt="electron"></a>
 <hr>
 
 ```python
@@ -39,14 +40,14 @@ class Meta(type):
 class Bio(metaclass=Meta):
     name        : str = "Nibaldo Chavez"
     designation : str = "Full Stack Programmer"
-    company     : str = "Chile"
+    company     : str = "Digital Dev Solutions"
     page        : str = "ddsolutions.cl"
 
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "PHP", "Java", "C#", "Node", "JavaScript")
     databases   : Tuple[str, ...] = ("MySQL", "MariaDB", "SQL Server", "MongoDB", "NoSql", "SqlLite")
-    misc        : Tuple[str, ...] = ("GIT", "React", "Jquery", "DJango", "Flask", "Bootstrap")
+    misc        : Tuple[str, ...] = ("GIT", "React", "Jquery", "DJango", "Flask", "Bootstrap", "Electron.js", "Apache cordova")
 
 class Languages(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Spanish Native", "English B1-B2")
