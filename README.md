@@ -3,7 +3,7 @@
 <h3>Tools</h3>
 <table border="0" style="border:0px;">
     <tr>
-        <td width="60%" valign="center">
+        <td width="60%" align="center">
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
