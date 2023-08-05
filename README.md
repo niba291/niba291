@@ -29,7 +29,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>     
         </td>
         <td align="center">
-            <img src="https://moe-counter.glitch.me/get/@niba291.github.readme"></img>
+            <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact"/>    
         </td>
     </tr>
