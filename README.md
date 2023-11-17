@@ -10,6 +10,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Node-43853D.svg?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=ffffff" alt="node"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/jquery-0868AC.svg?style=for-the-badge&logo=jquery&logoColor=0868AC&labelColor=ffffff" alt="django"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=000000&labelColor=ffffff" alt="flask"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=ffffff" alt="laravel"></a>
@@ -25,7 +26,8 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Electron-191970.svg?style=for-the-badge&logo=Electron&labelColor=ffffff&logoColor=blue" alt="electron"></a>
-            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>     
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
