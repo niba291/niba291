@@ -27,7 +27,8 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Electron-191970.svg?style=for-the-badge&logo=Electron&labelColor=ffffff&logoColor=blue" alt="electron"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
-            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="tailwindcss"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
@@ -54,9 +55,9 @@ class Bio(metaclass=Meta):
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "PHP", "Java", "C#", "Node", "JavaScript")
+    languages   : Tuple[str, ...] = ("Python", "PHP", "Java", "C#", "Node", "JavaScript", "TypeScript")
     databases   : Tuple[str, ...] = ("MySQL", "MariaDB", "SQL Server", "MongoDB", "NoSql", "SqlLite")
-    misc        : Tuple[str, ...] = ("GIT", "React", "Jquery", "DJango", "Flask", "Bootstrap", "Electron.js", "Apache cordova")
+    misc        : Tuple[str, ...] = ("GIT", "React", "React-Native", "Jquery", "DJango", "Flask", "Bootstrap", "Electron.js", "Apache cordova", "Laravel", "Codeigniter", "Symfony")
 
 class Languages(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Spanish Native", "English B1-B2")
