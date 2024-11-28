@@ -29,9 +29,11 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="tailwindcss"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/astro-1d1f25.svg?style=for-the-badge&logo=astro&labelColor=ffffff&logoColor=1d1f25" alt="Astro"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
+            <hr/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact"/>    
         </td>
     </tr>
