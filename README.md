@@ -30,6 +30,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="tailwindcss"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/astro-1d1f25.svg?style=for-the-badge&logo=astro&labelColor=ffffff&logoColor=1d1f25" alt="Astro"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/docker-0874b8.svg?style=for-the-badge&logo=docker&labelColor=ffffff&logoColor=0874b" alt="Docker"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
@@ -60,7 +61,8 @@ class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "PHP", "Java", "C#", "Node", "JavaScript", "TypeScript")
     databases   : Tuple[str, ...] = ("MySQL", "MariaDB", "SQL Server", "MongoDB", "NoSql", "SqlLite")    
     misc        : Tuple[str, ...] = ("GIT", "React", "React-Native", "Jquery", "DJango", "Flask", "Bootstrap",
-                                    "Electron.js", "Apache cordova", "Laravel", "Codeigniter", "Symfony", "TailwindsCss", "Astro")
+                                    "Electron.js", "Apache cordova", "Laravel", "Codeigniter", "Symfony", "TailwindsCss",
+                                    "Astro", "Docker")
 
 class Languages(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Spanish Native", "English B1-B2")
