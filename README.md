@@ -10,7 +10,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Node-43853D.svg?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=ffffff" alt="node"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/reactnative-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react-native"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/jquery-0868AC.svg?style=for-the-badge&logo=jquery&logoColor=0868AC&labelColor=ffffff" alt="django"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=000000&labelColor=ffffff" alt="flask"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=ffffff" alt="laravel"></a>
