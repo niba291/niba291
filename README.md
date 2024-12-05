@@ -31,6 +31,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/astro-1d1f25.svg?style=for-the-badge&logo=astro&labelColor=ffffff&logoColor=1d1f25" alt="Astro"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/django-113527.svg?style=for-the-badge&logo=django&labelColor=white&logoColor=113527" alt="Django"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/selenium-01AE00.svg?style=for-the-badge&logo=selenium&labelColor=white&logoColor=01AE00" alt="Selenium"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
@@ -62,7 +63,7 @@ class Stack(metaclass=Meta):
     databases   : Tuple[str, ...] = ("MySQL", "MariaDB", "SQL Server", "MongoDB", "NoSql", "SqlLite")    
     misc        : Tuple[str, ...] = ("GIT", "React", "React-Native", "Jquery", "DJango", "Flask", "Bootstrap",
                                     "Electron.js", "Apache cordova", "Laravel", "Codeigniter", "Symfony", "TailwindsCss",
-                                    "Astro", "Docker", "Django")
+                                    "Astro", "Docker", "Django", "Selenium")
 
 class Languages(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Spanish Native", "English B1-B2")
