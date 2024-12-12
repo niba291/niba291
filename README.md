@@ -31,7 +31,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/astro-1d1f25.svg?style=for-the-badge&logo=astro&labelColor=ffffff&logoColor=1d1f25" alt="Astro"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/django-113527.svg?style=for-the-badge&logo=django&labelColor=white&logoColor=113527" alt="Django"></a>  
-            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/selenium-01AE00.svg?style=for-the-badge&logo=selenium&labelColor=white&logoColor=01AE00" alt="Selenium"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&labelColor=white&logoColor=4FC08D" alt="vuejs"></a>  
         </td>
         <td align="center">
             <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34"></img>
