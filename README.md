@@ -26,7 +26,7 @@
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode"></a>
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Electron-191970.svg?style=for-the-badge&logo=Electron&labelColor=ffffff&logoColor=blue" alt="electron"></a>
-            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=blue" alt="apache-cordova"></a>  
+            <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/Cordova-35434F.svg?style=for-the-badge&logo=apache-cordova&labelColor=ffffff&logoColor=35434F" alt="apache-cordova"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/tailwindcss-0F172A.svg?style=for-the-badge&logo=tailwindcss&labelColor=ffffff&logoColor=blue" alt="tailwindcss"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&labelColor=ffffff&logoColor=blue" alt="TypeScript"></a>  
             <a href="https://github.com/niba291"><img src="https://img.shields.io/badge/astro-1d1f25.svg?style=for-the-badge&logo=astro&labelColor=ffffff&logoColor=1d1f25" alt="Astro"></a>  
