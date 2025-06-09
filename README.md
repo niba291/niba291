@@ -57,7 +57,6 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/.net-4B0082.svg?style=for-the-badge&logo=dotnet&labelColor=white&logoColor=4B0082" alt="nextjs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>   
 </div>
-<br/><br/>
 <hr/>
 <img src="https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif" width="100%"/>    
 
