@@ -21,7 +21,7 @@
 <br><br><br><br><br><br><br>
 <hr/>
 <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
-<br/><br/>
+<br/>
 <div>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
