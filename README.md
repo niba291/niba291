@@ -5,6 +5,12 @@
     <kbd>Full developer</kbd>
     <br><br>
 </div>
+<br>
+<div align="center">
+    <a href="mailto:nibaldochavezp@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nibaldochzvez/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
+</div>
+<br>
 <div>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
@@ -17,7 +23,6 @@
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
 </div>
-
 <br><br><br><br><br><br><br>
 <hr/>
 <img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
@@ -56,6 +61,7 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&labelColor=white&logoColor=black" alt="nextjs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/.net-4B0082.svg?style=for-the-badge&logo=dotnet&labelColor=white&logoColor=4B0082" alt="nextjs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>   
+    
 </div>
 <hr/>
 <img src="https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif" width="100%"/>    
