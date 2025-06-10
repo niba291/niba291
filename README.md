@@ -2,7 +2,7 @@
     <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="left" width="65"></img> 
     <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="right" width="65"/> 
     <h3 align="center">Hello there, Im Niba</h1>
-    <kbd>Full developer</kbd>
+    <kbd>Developer Full Stack</kbd>
     <br><br>
 </div>
 <br>
