@@ -9,6 +9,7 @@
 <div align="center">
     <a href="nibaldochavezp@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nibaldochzvez/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
+    <a href="https://niba291.github.io/Portfolio/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/profolio-black.svg?style=for-the-badge&logo=repo&logoColor=white" /></a>
 </div>
 <br>
 <div>
