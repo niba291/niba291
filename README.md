@@ -41,7 +41,6 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=000000&labelColor=ffffff" alt="flask"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=ffffff" alt="laravel"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=ffffff" alt="bootstrap"></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niba291&langs_count=10&theme=tokyonight&layout=compact" align="right" width="25%"/>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=ffffff" alt="mariadb"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=ffffff" alt="mongodb"></a>
