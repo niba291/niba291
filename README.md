@@ -26,7 +26,7 @@
 </div>
 <br><br><br><br><br><br><br>
 <hr/>
-<img src="https://moe-counter.glitch.me/get/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
+<img src="https://count.getloli.com/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
 <br/>
 <div>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
