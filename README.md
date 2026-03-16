@@ -81,7 +81,7 @@ class Meta(type):
 class Bio(metaclass=Meta):
     name        : str = "Nibaldo Chavez"
     designation : str = "Full Stack Programmer"
-    portfolio   : str = "https://niba291.github.io/Portfolio/"
+    portfolio   : str = "https://niba291.github.io/"
 
 
 class Stack(metaclass=Meta):
