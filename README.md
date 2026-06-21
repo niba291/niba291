@@ -96,3 +96,10 @@ class Languages(metaclass=Meta):
 ```
 ***
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niba291&bg_color=1a1b27&color=ffffff&line=38bdae&point=70a5fd&area=true)
+
+<br />
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
