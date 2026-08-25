@@ -30,6 +30,7 @@
 <br/>
 <div>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+    <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/rust-FFFFFF.svg?style=for-the-badge&logo=rust&logoColor=000&labelColor=ffffff" alt="rust"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/java-FC0000.svg?style=for-the-badge&logo=oracle&logoColor=FC0000&labelColor=ffffff" alt="java"></a>
@@ -60,8 +61,7 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&labelColor=white&logoColor=4FC08D" alt="vuejs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&labelColor=white&logoColor=black" alt="nextjs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/.net-4B0082.svg?style=for-the-badge&logo=dotnet&labelColor=white&logoColor=4B0082" alt="nextjs"></a>  
-    <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>   
-    
+    <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>    
 </div>
 <hr/>
 <img src="https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif" width="100%"/>    
