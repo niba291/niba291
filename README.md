@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="./side.gif" align="right"/> 
-    <img src="./side.gif" align="left"></img> 
+    <img src="./side.gif" align="right" width="20%"/> 
+    <img src="./side.gif" align="left" width="20%"></img> 
     <img
         src="https://gitascii.com/api/niba291?v=1788103251667"
         align="center"
