@@ -29,9 +29,7 @@
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
 </div>
-<br><br><br><br><br><br><br>
-<hr/>
-<br/>
+<br><br><br><br><br><br><br><br><br>
 <div align="center">
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/rust-FFFFFF.svg?style=for-the-badge&logo=rust&logoColor=000&labelColor=ffffff" alt="rust"></a>
@@ -67,7 +65,7 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/.net-4B0082.svg?style=for-the-badge&logo=dotnet&labelColor=white&logoColor=4B0082" alt="nextjs"></a>  
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>    
 </div>
-<hr/>
+<br>
 <img src="https://c.tenor.com/JyNKPnTmMKUAAAAd/tenor.gif" width="100%"/>    
 
 
