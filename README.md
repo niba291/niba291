@@ -7,14 +7,16 @@
         width="70%"
     />
 </div>
-
+<br>
+<img src="https://count.getloli.com/@niba291.github.readme?theme=rule34" align="left" width="25%"></img>
+<img src="https://count.getloli.com/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
 <br>
 <div align="center" width="100%">
     <a href="mailto:nibaldochavezp@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nibaldochavez/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
     <a href="https://niba291.github.io/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/portfolio-black.svg?style=for-the-badge&logo=repo&logoColor=white" /></a>
 </div>
-<br>
+<br><br>
 <div>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
     <img src="https://media.tenor.com/6MPGPavNs4UAAAAM/pixel.gif" align="left" width="10%"></img>
@@ -29,9 +31,8 @@
 </div>
 <br><br><br><br><br><br><br>
 <hr/>
-<img src="https://count.getloli.com/@niba291.github.readme?theme=rule34" align="right" width="25%"></img>
 <br/>
-<div>
+<div align="center">
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/rust-FFFFFF.svg?style=for-the-badge&logo=rust&logoColor=000&labelColor=ffffff" alt="rust"></a>
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/c%23-4B0082.svg?style=for-the-badge&logo=c-sharp&logoColor=4B0082&labelColor=ffffff" alt="csharp"></a>
@@ -67,7 +68,7 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>    
 </div>
 <hr/>
-<img src="https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif" width="100%"/>    
+<img src="https://c.tenor.com/JyNKPnTmMKUAAAAd/tenor.gif" width="100%"/>    
 
 
 ```python
