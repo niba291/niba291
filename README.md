@@ -1,15 +1,15 @@
 <div align="center">
-    <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="left" width="65"></img> 
-    <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="right" width="65"/> 
+    <img src="./side.gif" align="right"/> 
+    <img src="./side.gif" align="left"></img> 
     <img
         src="https://gitascii.com/api/niba291?v=1788103251667"
         align="center"
-        width="80%"
-      />
+        width="60%"
+    />
 </div>
 
-<br>
-<div align="center">
+<br><br><br><br>
+<div align="center" width="100%">
     <a href="mailto:nibaldochavezp@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nibaldochavez/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
     <a href="https://niba291.github.io/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/portfolio-black.svg?style=for-the-badge&logo=repo&logoColor=white" /></a>
