@@ -66,7 +66,6 @@
     <a href="https://github.com/niba291"><img align-"left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=%23593d88&labelColor=ffffff" alt="nextjs"></a>    
 </div>
 <br>
-<img src="https://c.tenor.com/JyNKPnTmMKUAAAAd/tenor.gif" width="100%"/>    
 
 
 ```python
