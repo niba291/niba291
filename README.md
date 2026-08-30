@@ -1,14 +1,14 @@
 <div align="center">
-    <img src="./side.gif" align="right" width="20%"/> 
-    <img src="./side.gif" align="left" width="20%"></img> 
+    <img src="./side.gif" align="right" width="15%"/> 
+    <img src="./side.gif" align="left" width="15%"></img> 
     <img
         src="https://gitascii.com/api/niba291?v=1788103251667"
         align="center"
-        width="60%"
+        width="70%"
     />
 </div>
 
-<br><br><br><br>
+<br>
 <div align="center" width="100%">
     <a href="mailto:nibaldochavezp@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nibaldochavez/" target="_blank"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
