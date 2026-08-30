@@ -4,6 +4,7 @@
     <img
         src="https://gitascii.com/api/niba291?v=1788103251667"
         align="center"
+        width="80%"
       />
 </div>
 
