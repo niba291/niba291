@@ -2,10 +2,11 @@
     <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="left" width="65"></img> 
     <img src="https://c.tenor.com/RvfX49xRRYoAAAAd/tenor.gif" align="right" width="65"/> 
     <img
-        src="https://gitascii.com/api/niba291?v=1788102890758"
+        src="https://gitascii.com/api/niba291?v=1788103251667"
         align="center"
       />
 </div>
+
 <br>
 <div align="center">
     <a href="mailto:nibaldochavezp@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
