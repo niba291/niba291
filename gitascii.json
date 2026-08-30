@@ -1,5 +1,4 @@
 {
-  "username": "niba291",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11522,53 +11521,6 @@
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1788102051273_1"
-    },
-    {
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 48,
-        "y": 368
-      },
-      "size": {
-        "width": 704,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffb800"
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788102051273_2"
-    },
-    {
-      "instanceId": "widget_1788102440820",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget",
-      "position": {
-        "x": 0,
-        "y": 610
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "accentColor": "#7a7a7a",
-        "hideBorder": true,
-        "showTitle": false,
-        "backgroundColor": "transparent",
-        "borderColor": "transparent",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "hideDecorations": true,
-        "animationDelay": 0,
-        "animationDuration": 3000
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
     }
   ],
   "globalStyles": {
@@ -11583,6 +11535,5 @@
     "templateStyle": "ascii_native",
     "transparentBackground": true
   },
-  "templateId": "ascii_native",
-  "profileSlug": "default"
+  "templateId": "ascii_native"
 }
