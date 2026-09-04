@@ -86,7 +86,7 @@ class Bio(metaclass=Meta):
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "PHP", "Java", "C#", "Node", "JavaScript", "TypeScript")
+    languages   : Tuple[str, ...] = ("Python", "Rust", "PHP", "Java", "C#", "Node", "JavaScript", "TypeScript")
     databases   : Tuple[str, ...] = ("MySQL", "MariaDB", "SQL Server", "MongoDB", "NoSql", "SqlLite")    
     misc        : Tuple[str, ...] = ("GIT", "React", "React-Native", "Next.js", "Jquery", "DJango", "Flask", "Bootstrap",
                                     "Electron.js", "Apache cordova", "Laravel", "Codeigniter", "Symfony", "TailwindsCss",
